@@ -23,8 +23,9 @@ The next thing to do was to sort the B column from Z-->A so that the highest val
 Now I know what 10 counties saw the most burnt acreage from 2013-2020.<br>
 I followed this process to answer the rest of my questions, simply changing the "Values" input for each question.
 
-**Data Visualization**
+# **Data Visualization**<br>
 ![Screenshot of bar graoh depicting the top 5 counties in California with most acres burned from 2013-2020](Screenshot%202021-08-09%20094214.jpg)
+Link: https://infogram.com/top-5-counties-in-california-with-most-acres-burned-in-wildfires-from-2013-2020-1h7g6k09wgmzo2o?live
 
 
 # **Story Pitch**
