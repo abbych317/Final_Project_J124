@@ -31,8 +31,8 @@ Link: https://infogram.com/top-5-counties-in-california-with-most-acres-burned-i
 # **Story Pitch**
 When looking at the counties that showed up the most in my data analysis, this is the breakdown by location:
 
-Northern California - Butte, Mendocino, Shasta, Sonoma, Napa, Trinity, and Lake.
-Central California - n/a
+Northern California - Butte, Mendocino, Shasta, Sonoma, Napa, Trinity, and Lake.<br>
+Central California - n/a<br>
 Southern California - Ventura, Los Angeles, and Santa Barbara.
 
 My angle would be to investigate what makes fires so destructive. I would like to examine why Northern California is so heavily impacted compared to SoCal. This is where I would want more in-detail data about the infrastructure of the counties (maybe older counties result in more destroyed structures), as well as how the fire departments function (maybe SoCal has more funding/resources and can respond more quickly to wildfires and therefore prevent more damage).
